@@ -1,0 +1,1 @@
+var ContentBox = React.createClass();
